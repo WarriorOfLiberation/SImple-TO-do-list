@@ -1,1 +1,1 @@
-# SImple-TO-do-list
+# Simple-TO-DO-LIST
